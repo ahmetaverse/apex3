@@ -9,3 +9,4 @@ wow
 wow2
 sa
 as
+merkeziyetsiz
