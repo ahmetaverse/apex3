@@ -10,3 +10,4 @@ wow2
 sa
 as
 merkeziyetsiz
+kim elledi lan
