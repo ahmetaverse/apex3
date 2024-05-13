@@ -11,4 +11,5 @@ sa
 as
 merkeziyetsiz
 kim elledi lan
-hey
+heya
+ 
