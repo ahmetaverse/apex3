@@ -12,4 +12,4 @@ as
 merkeziyetsiz
 kim elledi lan
 heya
- 
+ g
